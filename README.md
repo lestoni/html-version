@@ -2,9 +2,6 @@
 
 Detect HTML Version of document from string, url or file
 
-[![GoDoc](https://godoc.org/github.com/lestoni/html-version?status.svg)](https://godoc.org/github.com/lestoni/html-version)
-![](https://img.shields.io/badge/license-MIT-blue.svg)
-![](https://img.shields.io/badge/status-stable-green.svg)
 
 ## Installation
 
